@@ -1,9 +1,9 @@
 const config = {
-    TOKEN: "xoxc-xxxx",
-    COOKIE: "xoxd-xxxx",
-    TEAM_ID: "workspacename",
-    CHANNEL: "C1234D4567S",
-    CLAUDE_USER: "U1234A568BC",
+    TOKEN: "xoxc-5297246956273-5278000908822-5853424094279-580ece236973aa0bd8cd1f181582fec9946a2b0f93c8b8a84a12997f5204bb1b",
+    COOKIE: "xoxd-S%2BEbMF05Xq0c255dB9nK%2BY0SXKo1EhSEjnaANjLEA%2FDp%2FzjZJK9JQypUGabaSSV%2FvQLQ1GhRuFvI8kzN4E7XmQx%2BMbzaAUejRsdvfB8snERmwcoQTeXwivab9RujLTdSsmn4XizaHTgVzr3ASxqqlSfei9%2Fw3%2BgGvRyIJmEzpf02eAY2i9msZiyRkMhXvCaiHXbSVJzrk18%3D",
+    TEAM_ID: "kokodayohq",
+    CHANNEL: "C05R3CLBAEB",
+    CLAUDE_USER: "U058F4MD4LU",
 
     edit_msg_with_ping: true,
 
